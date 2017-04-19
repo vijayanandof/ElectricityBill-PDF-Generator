@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Electricity Bill Calculator</string>
+    <string-array name="planets_array">
+        <item>SELECT</item>
+        <item>I-A INDUSTRIES</item>
+        <item>I-B Railway Traction</item>
+        <item>II-A Govt Edu Institutions</item>
+        <item>II-B Private Edu Institutions</item>
+        <item>III Commercial</item>
+        <item>IV Lift Irrigation</item>
+        <item>V HT Temporary supply</item>
+    </string-array>
+</resources>
